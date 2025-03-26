@@ -1,2 +1,2 @@
 # LTspice-Tutorial
-In this repository I try to share my simulation files with LTspice.
+In this repository I share my simulation files with LTspice.
